@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Phone Naing</h1>
 <h3 align="center">I am excited to learn web development and new web technology.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Finish Project:</h3>
+ 🍸🍸🍸[Cocktail](https://mgphonecocktails.netlify.app/)
+ 🛒🛒🛒[ShoppingCart](https://mgphoneshopping.onrender.com//)
 <p align="left">
 </p>
 
