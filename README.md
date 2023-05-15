@@ -2,7 +2,7 @@
 <h3 align="center">I am excited to learn web development and new web technology.</h3>
 
 <h3 align="left">Finish Project:</h3>
- 🍸🍸🍸[Cocktail](https://mgphonecocktails.netlify.app/)
+ 🍸🍸🍸[Cocktail](https://mgphonecocktails.netlify.app/)<br />
  🛒🛒🛒[ShoppingCart](https://mgphoneshopping.onrender.com//)
 <p align="left">
 </p>
