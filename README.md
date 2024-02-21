@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://vercel.com/mgphone/resume" target="_blank">Resume</a>
+   <a href="https://resume-mgphone.vercel.app/" target="_blank">Resume</a>
    
 </p>
 
