@@ -6,18 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgphone" alt="mgphone" /></a> </p>
 
 
-- 🔭Finish Project <br />
-🚌🚌🚌<a href="https://turboremovals.co.uk/" target="_blank">Removal Services</a><br />
-🍽️🍽️🍽️<a href="https://sampleasiavilla.netlify.app/" target="_blank">Restaurant</a><br />
-🛒🛒🛒<a href="https://mgphoneshopping.onrender.com/" target="_blank">ShoppingCart</a><br />
-🍸🍸🍸<a href="https://mgphonecocktails.netlify.app/" target="_blank">Cocktail</a><br />
+### Projects
+- [**Removal Services**](https://github.com/Mgphone/TurboRemoval) 🚌🚌🚌 Check out the <a href="https://turboremovals.co.uk/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Removal Services</a>
+- [**Restaurant Showcase**](https://github.com/Mgphone/AsiaReact) 🍽️🍽️🍽️ Explore the <a href="https://asia-villa.co.uk" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Restaurant Showcase</a>
+- [**Shopping Cart**](https://github.com/Mgphone/-asiacart-) 🛒🛒🛒 Visit the <a href="https://mgphoneshopping.onrender.com/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Shopping Cart</a>
+- [**Cocktail Recipes**](https://github.com/Mgphone/mgphonecocktail) 🍸🍸🍸 Discover the <a href="https://mgphonecocktails.netlify.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Cocktail Recipes</a>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://resume-mgphone.vercel.app/" target="_blank">Resume</a>
-   
-</p>
+
+### Connect with Me
+- [Resume](https://resume-mgphone.vercel.app/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
