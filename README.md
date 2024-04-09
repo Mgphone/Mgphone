@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgphone&label=Profile%20views&color=0e75b6&style=flat" alt="mgphone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgphone" alt="mgphone" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mgphone&title=Repositories,Followers,Experience,PullRequest,Commits" alt="mgphone" /></a> </p>
 
 
 ### Projects
