@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgphone&show_icons=true&locale=en&layout=compact" alt="mgphone" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgphone&show_icons=true&locale=en" alt="mgphone" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgphone&show=prs_merged,prs_merged_percentage&hide=stars,issues,contribs&rank_icon=github&ring_color=fff" alt="mgphone" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgphone&" alt="mgphone" /></p>
