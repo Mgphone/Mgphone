@@ -7,6 +7,10 @@
 
 
 ### Projects
+
+- [**Money Exchange Source Code**](https://github.com/Mgphone/SuperMarketBE) 💸💸💸 Check out the Web Link <a href="https://super-market-frontend.vercel.app/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Money Exchange</a>
+  - **Username:** mgphone@money.com
+  - **Password:** money
 - [**Removal Services Source Link**](https://github.com/Mgphone/TurboRemoval) 🚌🚌🚌 Check out the Web Link <a href="https://turboremovals.co.uk/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Removal Services</a>
 - [**Restaurant Showcase Source Link**](https://github.com/Mgphone/AsiaReact) 🍽️🍽️🍽️ Explore the Web Link <a href="https://asia-villa.co.uk" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Restaurant Showcase</a>
 - [**Shopping Cart Source Link**](https://github.com/Mgphone/-asiacart-) 🛒🛒🛒 Visit the Web Link <a href="https://mgphoneshopping.onrender.com/" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">Shopping Cart</a>
